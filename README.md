@@ -10,7 +10,7 @@ A modern, responsive portfolio website showcasing my work as a Data Science & Ge
 ## 🚀 Live Demo
 
 - **GitHub Pages**: [View Live](https://ananttripathi.github.io/portfolio)
-- **Hugging Face Spaces**: [View Live](https://huggingface.co/spaces/ananttripathiak/portfolio)
+- **Hugging Face Spaces**: [View Live](https://huggingface.co/spaces/ananttripathiak/anant-tripathi-portfolio) 
 
 ## ✨ Features
 
